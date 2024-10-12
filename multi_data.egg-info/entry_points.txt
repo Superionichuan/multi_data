@@ -1,0 +1,2 @@
+[console_scripts]
+multi_data = multi_data.multi_data:main

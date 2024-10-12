@@ -1,0 +1,9 @@
+setup.py
+multi_data/__init__.py
+multi_data/multi_data.py
+multi_data.egg-info/PKG-INFO
+multi_data.egg-info/SOURCES.txt
+multi_data.egg-info/dependency_links.txt
+multi_data.egg-info/entry_points.txt
+multi_data.egg-info/requires.txt
+multi_data.egg-info/top_level.txt

@@ -1,0 +1,45 @@
+{
+    "configuration[1]": {
+        "files": [
+            "infile.json"
+        ],
+        "type": "row",
+        "ranges": [],
+        "label_mode": 0,
+        "skip_head": 1
+    },
+    "write_text": {
+        "txt": "off",
+        "name": "infile.dat",
+        "type": "row"
+    },
+    "titles": {
+        "title_0": "{",
+        "title_1": "\"configuration[1]\":",
+        "title_2": "\"files\":",
+        "title_3": "\"ccdc_pres_20_iter_000000-000008_temp_300_modeldevi_F\"",
+        "title_4": "],",
+        "title_5": "\"type\":",
+        "title_6": "\"ranges\":",
+        "title_7": "\"label_mode\":",
+        "title_8": "\"skip_head\":",
+        "title_9": "},",
+        "title_10": "\"write_text\":",
+        "title_11": "\"txt\":",
+        "title_12": "\"name\":",
+        "title_13": "\"type\":",
+        "title_14": "},",
+        "title_15": "\"titles\":",
+        "title_16": "\"title_0\":",
+        "title_17": "\"title_1\":",
+        "title_18": "\"title_2\":",
+        "title_19": "\"title_3\":",
+        "title_20": "\"title_4\":",
+        "title_21": "\"title_5\":",
+        "title_22": "\"title_6\":",
+        "title_23": "\"title_7\":",
+        "title_24": "\"title_8\":",
+        "title_25": "}",
+        "title_26": "}"
+    }
+}

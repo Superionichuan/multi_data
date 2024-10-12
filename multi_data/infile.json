@@ -1,0 +1,24 @@
+{
+    "configuration[1]": {
+        "files": [
+            "ccdc_iter_000000_pres_20-130_modeldevi_F"
+        ],
+        "type": "row",
+        "ranges": [],
+        "label_mode": 0,
+        "skip_head": 1
+    },
+    "write_text": {
+        "txt": "on",
+        "name": "infile.dat",
+        "type": "column"
+    },
+    "titles": {
+        "title_0": "iter_000000_pres_20",
+        "title_1": "iter_000000_pres_40",
+        "title_2": "iter_000000_pres_80",
+        "title_3": "iter_000000_pres_100",
+        "title_4": "iter_000000_pres_120",
+        "title_5": "iter_000000_pres_130"
+    }
+}

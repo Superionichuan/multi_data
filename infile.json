@@ -1,0 +1,27 @@
+{
+    "configuration[1]": {
+        "files": [
+            "ccdc_pres_20_iter_000000-000008_temp_300_modeldevi_F"
+        ],
+        "type": "row",
+        "ranges": [],
+        "label_mode": 0,
+        "skip_head": 1
+    },
+    "write_text": {
+        "txt": "off",
+        "name": "infile.dat",
+        "type": "row"
+    },
+    "titles": {
+        "title_0": "pres_20_iter_000000_temp_300",
+        "title_1": "pres_20_iter_000001_temp_300",
+        "title_2": "pres_20_iter_000002_temp_300",
+        "title_3": "pres_20_iter_000003_temp_300",
+        "title_4": "pres_20_iter_000004_temp_300",
+        "title_5": "pres_20_iter_000005_temp_300",
+        "title_6": "pres_20_iter_000006_temp_300",
+        "title_7": "pres_20_iter_000007_temp_300",
+        "title_8": "pres_20_iter_000008_temp_300"
+    }
+}
